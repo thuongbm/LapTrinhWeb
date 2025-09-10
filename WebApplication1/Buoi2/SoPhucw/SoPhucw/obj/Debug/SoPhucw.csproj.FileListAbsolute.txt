@@ -1,0 +1,8 @@
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\obj\Debug\SoPhucw.csproj.AssemblyReference.cache
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\obj\Debug\SoPhucw.csproj.CoreCompileInputs.cache
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\bin\Debug\SoPhucw.exe.config
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\bin\Debug\SoPhucw.exe
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\bin\Debug\SoPhucw.pdb
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\obj\Debug\SoPhucw.exe
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\obj\Debug\SoPhucw.pdb
+D:\Subject\WebDev\WebApplication1\Buoi2\SoPhucw\SoPhucw\obj\Debug\SoPhucw.exe.config

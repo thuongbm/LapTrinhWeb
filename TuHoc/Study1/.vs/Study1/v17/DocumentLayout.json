@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subject\\WebDev\\TuHoc\\Study1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|d:\\subject\\webdev\\tuhoc\\study1\\study1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|solutionrelative:study1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|d:\\subject\\webdev\\tuhoc\\study1\\study1\\views\\my\\mycontroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|solutionrelative:study1\\views\\my\\mycontroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|d:\\subject\\webdev\\tuhoc\\study1\\study1\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|solutionrelative:study1\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|d:\\subject\\webdev\\tuhoc\\study1\\study1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E0DEAA-7C03-408A-8987-4CC2A3700C29}|Study1\\Study1.csproj|solutionrelative:study1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyController.cshtml",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Views\\My\\MyController.cshtml",
+              "RelativeDocumentMoniker": "Study1\\Views\\My\\MyController.cshtml",
+              "ToolTip": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Views\\My\\MyController.cshtml",
+              "RelativeToolTip": "Study1\\Views\\My\\MyController.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:25:05.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyController.cs",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Controllers\\MyController.cs",
+              "RelativeDocumentMoniker": "Study1\\Controllers\\MyController.cs",
+              "ToolTip": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Controllers\\MyController.cs",
+              "RelativeToolTip": "Study1\\Controllers\\MyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:27:37.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Program.cs",
+              "RelativeDocumentMoniker": "Study1\\Program.cs",
+              "ToolTip": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Program.cs",
+              "RelativeToolTip": "Study1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:18:47.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Study1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Subject\\WebDev\\TuHoc\\Study1\\Study1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Study1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:18:10.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
