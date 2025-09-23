@@ -1,0 +1,60 @@
+@using WebApplication1.Models
+@model IEnumerable<Student>
+<a asp-action="Create" class = "btn btn-primary"> Create Student </a>
+<a asp-controller="Students"asp-action="Create" class="btn btn-primary">Create Student</a>
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Mã</th>
+        <th>Họ và tên</th>
+        <th>Ngày sinh</th>
+        <th>Ngành</th>
+        <th>Giới tính</th>
+        <th>Hệ Đt</th>
+        <th>Khóa</th>
+        <th>Email</th>
+        <th>Ảnh</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    @foreach(var s in Model){
+        <tr>
+            <td>@s.Id</td>
+            <td>@s.Name</td>
+            <td>@s.DateOfBorth</td>
+                @{
+                    string str = "";
+                    switch (s.Branchs)
+                    {
+                        case Branchs.IT:
+                            str = "CNTT";
+                            break;
+
+                        case Branchs.BE:
+                            str = "Kinh tế";
+                            break;
+                        case Branchs.CE:
+                            str = "Công trình";
+                            break;
+                        case Branchs.EE:
+                            str = "Điện - Điện tử";
+                            break;
+                    }
+                }
+                <td>@str</td>
+                <td>@(s.Gender == Gender.Male ? "Nam" : "Nữ")</td>
+                <td>@(s.IsRegular ? "Chính quy" : "Phi chính quy")</td>
+                <td>@s.Address</td>
+                <td>@s.Email</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(s.PhotoFileName))
+                    {
+                        <img src="~/uploads/@s.PhotoFileName" alt="Ảnh sinh viên" width="80" />
+                    }
+                </td>
+        </tr>
+    }
+    </tbody>
+    
+</table>

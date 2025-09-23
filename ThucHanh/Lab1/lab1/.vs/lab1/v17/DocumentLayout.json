@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,16 +15,32 @@
       "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43E04517-6C4D-4D9A-A53E-7087F37438A9}|WebApplication1\\WebApplication1.csproj|d:\\subject\\webdev\\thuchanh\\lab1\\lab1\\webapplication1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,128 +58,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyLayoutHelper.cshtml",
-              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T09:54:16.015Z",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Models\\MenuItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:06:40.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Gender.cs",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Models\\Gender.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:06:39.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\LeftMenu.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\LeftMenu.cshtml*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T02:02:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T01:51:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RenderLeftMenu.cshtml",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Components\\Render\\RenderLeftMenu.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Components\\Render\\RenderLeftMenu.cshtml*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-16T09:43:09.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ViewComponents\\RenderViewComponent.cs",
               "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\ViewComponents\\RenderViewComponent.cs*",
               "RelativeToolTip": "WebApplication1\\ViewComponents\\RenderViewComponent.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T09:28:20.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\MenuItem.cs",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Models\\MenuItem.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\MenuItem.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T09:19:41.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Main.cshtml",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\Main.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Main.cshtml",
               "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\Main.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\Main.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-16T08:12:19.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MyLayout.cshtml",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\MyLayout.cshtml",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\MyLayout.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCAAAAAKAAAAAAAAAA==",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-16T07:55:07.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Students\\Index.cshtml",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Students\\Index.cshtml*",
-              "RelativeToolTip": "WebApplication1\\Views\\Students\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-16T09:16:26.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Footer.cshtml",
-              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\Footer.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Footer.cshtml",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\Footer.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T08:09:46.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LeftMenu.cshtml",
-              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
-              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T08:07:43.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:54:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\TopNav.cshtml",
@@ -183,12 +200,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\TopNav.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwBwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T07:58:50.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T07:58:50.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "styles.css",
               "DocumentMoniker": "D:\\Subject\\WebDev\\ThucHanh\\Lab1\\lab1\\WebApplication1\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\styles.css",
@@ -196,8 +212,7 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\styles.css",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-16T07:52:34.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T07:52:34.475Z"
             }
           ]
         }

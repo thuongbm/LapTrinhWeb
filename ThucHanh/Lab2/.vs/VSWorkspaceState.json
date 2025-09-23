@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lab1",
+    "\\lab1\\WebApplication1",
+    "\\lab1\\WebApplication1\\obj",
+    "\\lab1\\WebApplication1\\Properties",
+    "\\lab1\\WebApplication1\\Views",
+    "\\lab1\\WebApplication1\\Views\\Shared",
+    "\\lab1\\WebApplication1\\wwwroot",
+    "\\lab1\\WebApplication1\\wwwroot\\css",
+    "\\lab1\\WebApplication1\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\lab1\\WebApplication1\\wwwroot\\css\\styles.css",
+  "PreviewInSolutionExplorer": false
+}

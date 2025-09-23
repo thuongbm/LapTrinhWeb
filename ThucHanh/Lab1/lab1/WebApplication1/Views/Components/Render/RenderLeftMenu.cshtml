@@ -11,11 +11,11 @@
                 </a>
                 <div class="sb-sidenav-menu-heading">Addons</div>
 
-                @foreach (var item in Model)
+                @foreach (var i in Model)
                 {
-                    <a class="nav-link" href="@item.Link">
+                    <a class="nav-link" href="@i.Link">
                         <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-                        @item.Name
+                        @i.Name
                     </a>
                 }
             </div>
