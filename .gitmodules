@@ -1,0 +1,3 @@
+[submodule "btl/QuanLySinhVien_BTL"]
+	path = btl/QuanLySinhVien_BTL
+	url = https://github.com/ldt2711/QuanLySinhVien_BTL.git

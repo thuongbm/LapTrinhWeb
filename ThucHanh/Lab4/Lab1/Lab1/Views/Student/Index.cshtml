@@ -1,0 +1,71 @@
+﻿@section Scripts {
+    <script>
+        var table = document.querySelector("table");
+        table.onclick = function onTableClick() {
+            table.style= "background-color: yellow;"
+        }
+    </script>
+}
+@{
+    ViewData["Title"] = "Student List";
+    Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+}
+@model IEnumerable<Student>
+<a asp-controller="Student" asp-action="Create" class="btn btn-primary">Create Student</a>
+<a href="/Admin/Student/Add" class="btn btn-primary">Create Student</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Mã</th>
+            <th>Ảnh</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Ngành</th>
+            <th>Giới tính</th>
+            <th>Hệ ĐT</th>
+            <th>Địa chỉ</th>
+            <th>Email</th>
+            <th>Điểm</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+        <tr>
+            <td>@s.Id</td>
+            <td>
+                @if (!string.IsNullOrEmpty(s.Photo))
+                {
+                    <img src="@s.Photo" alt="Ảnh sinh viên" width="80" height="80" />
+                }
+            </td>
+            <td>@s.Name</td>
+            <td>@s.DateOfBirth</td>
+                @{
+                    string str = "";
+                    switch(s.Branch)
+                    {
+                        case Branch.IT:
+                        str="CNTT";
+                        break;
+                        case Branch.BE:
+                        str="Kinh tế";
+                        break;
+                        case Branch.CE:
+                        str = "Công trình";
+                        break;
+                        case Branch.EE:
+                        str = "Điện - Điện tử";
+                        break;
+                    }
+                }
+            <td>@str</td>
+            <td>@(s.Gender == Gender.Male ? "Nam" : "Nữ")</td>
+            <td>@(s.IsRegular ? "Chính quy" : "Phi chính quy")</td>
+            <td>@s.Address</td>
+            <td>@s.Email</td>
+            <td>@s.Score</td>
+        </tr>
+        }
+    </tbody>
+</table>
